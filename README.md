@@ -1,2 +1,0 @@
-# tareafront
-repo tarea potreo
